@@ -1,0 +1,16 @@
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘AYUSH‘, ‘null’, ‘GURGAON‘, ‘Haryana’, ‘9318433855‘, ‘Oxygen cans available’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘STAR SPECIAL‘, ‘null’, ‘Manesar‘, ‘Haryana’, ‘9899930828‘, ‘Oxygen concentrator available’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘KARAN‘, ‘null’, ‘Delhi‘, ‘Delhi‘, ‘9607915988‘, ‘Oxygen concentrator available’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘SHUBHAM OXYGEN CYLINDER‘, ‘null’, ‘ROHINI SEC - 5‘, ‘Delhi‘, ‘9811065716‘, ‘(OXYGEN REFILL)’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘OXYGEN CYLINDER‘, ‘null’, ‘Delhi‘, ‘Delhi‘, ‘9910295808‘, ‘10L OXYGEN CYLINDER FOR 28K WITH KIT’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘MONU OXYGEN EQUIPTMENT SUPPLIER‘, ‘null’, ‘Delhi‘, ‘Delhi‘, ‘8178877352‘, ‘02 CONCENTRATOR AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘ANUBHAV‘, ‘null’, ‘Delhi‘, ‘Delhi‘, ‘8810580266‘, ‘OXYGEN CYLINDER’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘KANIKA‘, ‘null’, ‘Noida, ‘Uttar Pradesh‘, ‘9205445637‘, ‘CANS AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘ARUN KUMAR‘, ‘null’, ‘Delhi‘, ‘Delhi‘, ‘9899233554‘, ‘OXYGEN AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘JAVED AHMED JI‘, ‘null’, ‘Delhi‘, ‘Delhi‘, ‘9808822111‘, ‘OXYGEN AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘RAJENDRA‘, ‘null’, ‘Mumbai‘, ‘Mumbai‘, ‘9321024969‘, ‘OXYGEN AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘KIRTISH BERDE - ARK MEDICAL‘, ‘null’, ‘Mumbai‘, ‘Mumbai‘, ‘9821018069‘, ‘OXYGEN AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘SIDHARTH RAJU‘, ‘null’, ‘Mumbai‘, ‘Mumbai‘, ‘9892563143‘, ‘OXYGEN AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘VEER FOUNDATION‘, ‘null’, ‘Mumbai‘, ‘Mumbai‘, ‘9321580108‘, ‘OXYGEN AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘RASHID‘, ‘null’, ‘Mumbai‘, ‘Mumbai‘, ‘9819737902‘, ‘OXYGEN AVAILABLE’, current_timestamp());
+INSERT INTO `form`.`oxygen` (`name`, `address`, `city`, `state`, `phone`, `comment`,`time`) VALUES (‘OXYGEN CONCENTRATOR‘, ‘null’, ‘Mumbai‘, ‘Mumbai‘, ‘9820489309‘, ‘OXYGEN AVAILABLE’, current_timestamp());
